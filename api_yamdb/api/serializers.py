@@ -3,8 +3,7 @@ from .models import (
     Review,
     Category,
     Title,
-    Genre,
-    Review
+    Genre
 )
 
 from rest_framework import serializers
