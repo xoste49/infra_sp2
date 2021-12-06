@@ -39,5 +39,5 @@ docker-compose restart
 `docker cp dumpdata.json infra_web_1:/app; docker-compose exec web python manage.py loaddata dumpdata.json` - загрузка из дампа
 
 ### Contact me
-GitHub - @xoste49 <br/>
+GitHub - @github/xoste49 <br/>
 Telegram - https://t.me/xoste49
